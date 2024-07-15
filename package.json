@@ -9,5 +9,8 @@
     "chrome": "testcafe chrome:headless test.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "testcafe": "^3.6.2"
+  }
 }
